@@ -32,7 +32,4 @@
     "url": "git+https://github.com/wlf-io/astar-typescript.git"
   },
   "homepage": "https://github.com/wlf-io/astar-typescript#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  }
 }
